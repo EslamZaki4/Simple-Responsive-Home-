@@ -1,0 +1,81 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.logo{
+    border-radius: 50%;
+    
+    width: 40%;
+
+}
+ 
+nav{
+    display: flex;
+    flex-direction: column;
+     background-color: gray;
+     /* width: 10vw; */
+     width:15%
+     /* height:100vh ; */
+     /* justify-content: center; */
+     /* align-items: center; */
+   
+}
+.header2{
+    display: flex;
+    flex-direction: column;
+   
+}
+.child{
+ display: flex;
+ margin-top: 5vh;
+
+}
+.king1{
+    display: flex;
+    
+}
+.bike{
+    width: 100%;
+}
+section{
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+}
+.section2{
+    display: flex;
+   
+    margin-top: 20vh;
+   
+    justify-content: center;
+}
+.img1{
+    width:24vw;
+    margin-left: 2vw;
+    border-radius: 10%;
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+
+  
+    
+
+}
+.image{
+    border-radius: 10%;
+    width:24vw;
+    
+}
